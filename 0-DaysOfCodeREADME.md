@@ -23,18 +23,19 @@ I am excited to start this new journey to help me perfect my programming skills.
 
 # Day 2 : 
 ## Today's Progress
-Add text here...
+Javascript variables 
 
 </br>
 
 
 ## Today's Thoughts
-Add text here...
+Bit of a review nothing really new to learn. Reviewing fundamentals like variables is always good.
 
 
 </br>
 
 ## Links To Work/Resources
+My favorite search engine is [Link to code](https://duckduckgo.com)
 
 </br>
 
